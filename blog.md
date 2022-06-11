@@ -1,4 +1,4 @@
-## About Me
+che## About Me
 
 Hi, my name is **Flora**. I will be a junior, majoring in computer science, this upcoming fall semester.
 
